@@ -1,1 +1,1 @@
-# SCT_TrackCode_TASK-02
+(https://colab.research.google.com/github/sumit2663/SCT_TrackCode_TASK-02/blob/main/Customer_Segmentation_Using_K_Means_(TASK_2).ipynb)
