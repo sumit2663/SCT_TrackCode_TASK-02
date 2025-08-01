@@ -1,1 +1,1 @@
-[Open In Colab](https://colab.research.google.com/github/sumit2663/SCT_TrackCode_TASK-02/blob/main/Customer_Segmentation_Using_K_Means_(TASK_2).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sumit2663/SCT_TrackCode_TASK-02/blob/main/Customer_Segmentation_Using_K_Means_(TASK_2).ipynb)
